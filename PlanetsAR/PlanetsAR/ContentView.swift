@@ -48,12 +48,10 @@ struct SectionView: View {
                 Text(course.title)
                     .font(.largeTitle)
                     .bold()
-                    .foregroundColor(Color.white)
                 
                 Text(course.text)
                     .font(.subheadline)
                     .fontWeight(.light)
-                    .foregroundColor(Color.white)
                 
             }
             .padding()
