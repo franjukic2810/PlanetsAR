@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D911A7A124C59DA5000480D9 /* Frost.swift in Sources */ = {isa = PBXBuildFile; fileRef = D911A7A024C59DA5000480D9 /* Frost.swift */; };
+		D97210C024C3533C00508863 /* PlanetsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97210BF24C3533C00508863 /* PlanetsView.swift */; };
 		D9DF318B247A6A3900B217CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DF318A247A6A3900B217CD /* AppDelegate.swift */; };
 		D9DF318D247A6A3900B217CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DF318C247A6A3900B217CD /* SceneDelegate.swift */; };
 		D9DF318F247A6A3900B217CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DF318E247A6A3900B217CD /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D911A7A024C59DA5000480D9 /* Frost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frost.swift; sourceTree = "<group>"; };
+		D97210BF24C3533C00508863 /* PlanetsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsView.swift; sourceTree = "<group>"; };
 		D9DF3187247A6A3900B217CD /* PlanetsAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlanetsAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9DF318A247A6A3900B217CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9DF318C247A6A3900B217CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				D9DF318A247A6A3900B217CD /* AppDelegate.swift */,
 				D9DF318C247A6A3900B217CD /* SceneDelegate.swift */,
 				D9DF318E247A6A3900B217CD /* ContentView.swift */,
+				D97210BF24C3533C00508863 /* PlanetsView.swift */,
+				D911A7A024C59DA5000480D9 /* Frost.swift */,
 				D9DF3190247A6A3F00B217CD /* Assets.xcassets */,
 				D9DF3195247A6A3F00B217CD /* LaunchScreen.storyboard */,
 				D9DF3198247A6A3F00B217CD /* Info.plist */,
@@ -146,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D911A7A124C59DA5000480D9 /* Frost.swift in Sources */,
+				D97210C024C3533C00508863 /* PlanetsView.swift in Sources */,
 				D9DF318B247A6A3900B217CD /* AppDelegate.swift in Sources */,
 				D9DF318D247A6A3900B217CD /* SceneDelegate.swift in Sources */,
 				D9DF318F247A6A3900B217CD /* ContentView.swift in Sources */,
